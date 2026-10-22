@@ -1,0 +1,77 @@
+{
+  "status": "EKSPERIMEN_DIJALANKAN_PADA_PERANGKAT_INI",
+  "source": "UCI Banknote Authentication (DOI 10.24432/C55P57)",
+  "data_rows": 1372,
+  "train_rows": 823,
+  "valid_rows": 274,
+  "test_rows": 275,
+  "feature_names": [
+    "variance",
+    "skewness",
+    "curtosis",
+    "entropy"
+  ],
+  "target_name": "class",
+  "class_semantics": "UCI tidak menjelaskan mapping label 0/1 pada halaman dataset; laporkan kelas 0 / kelas 1.",
+  "loss": "Binary Cross Entropy",
+  "architecture": "4-16-1",
+  "optimizer": "full-batch Gradient Descent",
+  "epochs": 350,
+  "best_hidden": 16,
+  "best_learning_rate": 1.0,
+  "gradient_check_max_difference": 9.078134077800115e-12,
+  "test_model": {
+    "accuracy": 0.9890909090909091,
+    "precision_class1": 0.976,
+    "recall_class1": 1.0,
+    "TP": 122,
+    "TN": 150,
+    "FP": 3,
+    "FN": 0
+  },
+  "test_baseline_logistic_regression": {
+    "accuracy": 0.9854545454545455,
+    "precision_class1": 0.9682539682539683,
+    "recall_class1": 1.0,
+    "TP": 122,
+    "TN": 149,
+    "FP": 4,
+    "FN": 0
+  },
+  "benchmark": [
+    {
+      "N": 164,
+      "rata2_ms_per_epoch": 0.1515111083335796,
+      "sd_ms_per_epoch": 0.006491782711175651,
+      "pengulangan": 5
+    },
+    {
+      "N": 329,
+      "rata2_ms_per_epoch": 0.13410618666663748,
+      "sd_ms_per_epoch": 0.037975108283828406,
+      "pengulangan": 5
+    },
+    {
+      "N": 493,
+      "rata2_ms_per_epoch": 0.15184903999397648,
+      "sd_ms_per_epoch": 0.021469794866053524,
+      "pengulangan": 5
+    },
+    {
+      "N": 658,
+      "rata2_ms_per_epoch": 0.16932346000127532,
+      "sd_ms_per_epoch": 0.0011134668052269138,
+      "pengulangan": 5
+    },
+    {
+      "N": 823,
+      "rata2_ms_per_epoch": 0.19954910999634495,
+      "sd_ms_per_epoch": 0.006798318616767313,
+      "pengulangan": 5
+    }
+  ],
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+  "python": "3.13.16",
+  "numpy": "2.1.3",
+  "sklearn": "1.6.1"
+}

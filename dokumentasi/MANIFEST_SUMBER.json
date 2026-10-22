@@ -1,0 +1,23 @@
+{
+  ".gitignore": "5b64016464b56f2caf351e94d8cb6597afb47e22af30160651205567c82e68ff",
+  "PANDUAN_UPLOAD_GITHUB.md": "d5e17a79109bf8e374e0bbd90f860dd37d6bb61453a4f0c07e40367d72eda408",
+  "README.md": "6686a8e869c41468d97a7a5a64b4379cc2a38df7e901e0069969f59cfc48c666",
+  "dokumentasi/DOKUMENTASI_EKSPERIMEN.md": "aba5ede54056fcdce6e208191730ba262835cfae2672c8e9318f128903fa39d8",
+  "dokumentasi/cek_konsistensi_hasil.py": "62b5a965d114a02d46eff2c58327d6528370b87cebb9cd31a17ec432bdc595be",
+  "dokumentasi/log_cek_konsistensi.txt": "dc0f7838a6b67ff064a3b1d6370d3f8146845de3269b30c7b6c7b93666e9cb21",
+  "hasil_eksperimen/benchmark_raw.csv": "7931145b2dc771950070b659a42ffde468030b639b0c3f824bf239cf545b4d0d",
+  "hasil_eksperimen/benchmark_ringkasan.csv": "9ae245dc5a84b37379815604caf2b8d557831553b74cfc70e6c77072f0951334",
+  "hasil_eksperimen/grafik_benchmark.png": "0ada210238e7d45baad2756339769bbfab866d65b5edee783969a874c1448b6e",
+  "hasil_eksperimen/kurva_loss.csv": "92084ba688a3e1a12bda3c04c25b0dd7bdb111574b9f5a488f65c7d546144d02",
+  "hasil_eksperimen/loss_banknote.png": "6f84ebb38f2ebeb765167428a993c3bc774e0d8bfefe2f16a67b85f32bf106e4",
+  "hasil_eksperimen/ringkasan_hasil.json": "5e725503bb68e88f7de75a24430f0fa2b94fdd7a79726697a8f17c29797f1f6f",
+  "hasil_eksperimen/sensitivitas_raw.csv": "19d59546ac8b00e880ccbe8c4959ca31322bd90374c9be3a56fda7ec36e905e5",
+  "hasil_eksperimen/sensitivitas_ringkasan.csv": "6b4929b2e2b72c76aae465bc4a7ebec5166f1b2e97f66ac627a514f69c9298c5",
+  "laporan/Laporan_Backpropagation_Format_Jurnal.docx": "525a480a3e355d46e1fa984e658a698f46dd17f293e1f314b27923b90650fd54",
+  "notebooks/Banknote_Backpropagation_Lengkap_Colab.ipynb": "07b437f9468b77f44b696f58f29d551dc2082772c40e6559ccf002262fbf7a0e",
+  "requirements.txt": "8ce46d9510687b5e2d97e10b884f5db9009982a10173b7245715bc2202786e0f",
+  "src/banknote_backprop.py": "fa3d8f3489b5ac1f8a92d9ab54f1f7604a18bdad9693f1d1a7a5ca2894341973",
+  "verifikasi_manual/LEMBAR_VERIFIKASI_MANUAL.md": "2d2e21b766e6bf9dcad9f2e5b7eb26da4b8c08e96e0e728ddf0352dafacbccd7",
+  "verifikasi_manual/hasil_pemeriksaan_numerik.txt": "5ed45825442b059d49087b550b2ed68bfe78929d7ed369c07fe01225082d7b35",
+  "verifikasi_manual/periksa_gradien_manual.py": "2629227a6b1f92c1cc4e8b4700a9f6c3a18a3e044d73084b1b7b9186362f09c7"
+}

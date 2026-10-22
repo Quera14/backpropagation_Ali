@@ -1,0 +1,3 @@
+$ python dokumentasi/cek_konsistensi_hasil.py
+Berkas hasil Colab diperiksa: seluruh hitungan dasar konsisten.
+Sampel: 1372 | 45 run sensitivitas | 25 run waktu | Test accuracy: 98.91%

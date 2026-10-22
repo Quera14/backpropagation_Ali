@@ -1,0 +1,8 @@
+$ python verifikasi_manual/periksa_gradien_manual.py
+W1: beda maksimum = 4.26494256578e-12
+b1: beda maksimum = 4.60137483671e-12
+W2: beda maksimum = 3.55393492413e-12
+b2: beda maksimum = 2.69312350198e-12
+Forward: z1 = [[0.6 1.2]] a1 = [[0.64565631 0.76852478]] z2 = [[0.01541824]] p = [[0.50385448]] loss = 0.6854677756734544
+Sesudah pembaruan: p = [[0.74507437]] loss = 0.29427123392738963
+SEMUA PEMERIKSAAN NUMERIK LULUS
